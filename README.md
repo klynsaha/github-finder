@@ -21,3 +21,5 @@ npm install
 ```
 npm start
 ```
+
+App is deployed on Vercel.
